@@ -8,10 +8,15 @@ After I got successive iterations of shapes decreasing in size, I decided to try
 
 I didn't quite calculate the scaling correctly, so across iterations each successive shape tends to get displaced a little. This produces an interesting visual effect, so I didn't fix it.
 
+First attempt, I got the correction angle wrong.
 ![step 1](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2015_47_01.png)
+Second attempt I correct it.
 ![step 2](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2015_53_13.png)
+Third attempt, I lerp between colors.
 ![step 3](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2016_28_37.png)
+fourth attempt, I set it to an arbitrary number of sides
 ![step 4](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2016_34_43.png)
+fifth attempt onwards, I'm just playing around.
 ![step 5](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2016_36_26.png)
 ![step 6](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2016_37_27.png)
 ![step 7](https://github.com/evilagram/HexWalk/blob/master/Picture%202017-06-15%2016_38_20.png)
